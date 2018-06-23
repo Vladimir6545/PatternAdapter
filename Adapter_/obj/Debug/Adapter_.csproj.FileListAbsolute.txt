@@ -1,0 +1,12 @@
+c:\users\asp\documents\visual studio 2015\Projects\Adapter_\Adapter_\bin\Debug\Adapter_.exe.config
+c:\users\asp\documents\visual studio 2015\Projects\Adapter_\Adapter_\bin\Debug\Adapter_.exe
+c:\users\asp\documents\visual studio 2015\Projects\Adapter_\Adapter_\bin\Debug\Adapter_.pdb
+c:\users\asp\documents\visual studio 2015\Projects\Adapter_\Adapter_\obj\Debug\Adapter_.csprojResolveAssemblyReference.cache
+c:\users\asp\documents\visual studio 2015\Projects\Adapter_\Adapter_\obj\Debug\Adapter_.exe
+c:\users\asp\documents\visual studio 2015\Projects\Adapter_\Adapter_\obj\Debug\Adapter_.pdb
+C:\Users\Vladimir\Desktop\Adapter_\Adapter_\bin\Debug\Adapter_.exe.config
+C:\Users\Vladimir\Desktop\Adapter_\Adapter_\obj\Debug\Adapter_.exe
+C:\Users\Vladimir\Desktop\Adapter_\Adapter_\obj\Debug\Adapter_.pdb
+C:\Users\Vladimir\Desktop\Adapter_\Adapter_\bin\Debug\Adapter_.exe
+C:\Users\Vladimir\Desktop\Adapter_\Adapter_\bin\Debug\Adapter_.pdb
+C:\Users\Vladimir\Desktop\Adapter_\Adapter_\obj\Debug\Adapter_.csprojResolveAssemblyReference.cache
